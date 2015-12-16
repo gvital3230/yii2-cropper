@@ -6,6 +6,7 @@ use yii\web\View;
 
 /* @var $this View */
 /* @var $widget Cropper */
+/* @var $widget Cropper */
 
 ?>
 <div class="modal fade" id="<?= $widget->id ?>" role="modal">
